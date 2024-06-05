@@ -1,0 +1,6 @@
+train: /DATASET/images/train/
+val: /DATASET/images/val/
+
+nc: 4
+
+names: ['pothole','vegetation','debris','signage']
